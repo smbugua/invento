@@ -1,0 +1,3 @@
+[27-Jul-2017 06:50:11 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/gsfdana/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Jul-2017 06:50:13 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/gsfdana/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Jul-2017 12:56:44 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/gsfdana/public_html/application/third_party/mpdf/mpdf.php on line 1422
